@@ -2,7 +2,7 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/teal">
+    android:background="@color/maroon">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:padding="10dp"
-            android:text="Sejarah\nPahlawan Nasional"
+            android:text="Pahlawan\nNasional"
             android:textColor="@color/white"
             android:textSize="24sp"
             android:textStyle="bold" />
